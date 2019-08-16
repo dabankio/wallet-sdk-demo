@@ -11,7 +11,7 @@
 - demo_cold 冷钱包源代码
 
 ## 演示录屏
-（上传中）
+https://www.bilibili.com/video/av64012728
 
 ## 试用
 
