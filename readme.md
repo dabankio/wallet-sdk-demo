@@ -5,7 +5,6 @@
 暂时没有支持iOS,如果有需要的话可以提issue,我这边有空机会加上去。
 
 ## 目录说明
-- images 一些图片
 - prototype_draft 两个app的设计稿
 - demo_watch 观察钱包源代码
 - demo_cold 冷钱包源代码
