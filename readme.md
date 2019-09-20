@@ -2,6 +2,12 @@
 
 基于Flutter + WalletCore.aar (后续开源源码)开发
 
+**重要说明** 这个工程仅作为演示用，由于缺乏必要的安全策略，使用在生产环境您需要自行承担风险
+
+## Update
+
+**2019-09-20更新**WalletCore.aar 源码开源啦，在这里 https://github.com/lomocoin/wallet-core ，至此，这个工程所有源代码都开源了
+
 暂时没有支持iOS,如果有需要的话可以提issue,我这边有空机会加上去。
 
 ## 目录说明
