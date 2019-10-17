@@ -6,7 +6,7 @@
 
 ## Update
 
-**2019-09-20更新**WalletCore.aar 源码开源啦，在这里 https://github.com/lomocoin/wallet-core ，至此，这个工程所有源代码都开源了
+**2019-09-20更新**WalletCore.aar 源码开源啦，在这里 https://github.com/dabankio/wallet-core ，至此，这个工程所有源代码都开源了
 
 暂时没有支持iOS,如果有需要的话可以提issue,我这边有空机会加上去。
 
